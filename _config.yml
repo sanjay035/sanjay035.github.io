@@ -7,5 +7,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently working on some deep learning related stuff popular these days on Generative Adversarial Networks (GANs) and getting hands dirty with it for gaining intuition behind the Generative models. 
   <br><br>
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
