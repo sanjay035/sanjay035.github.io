@@ -1,8 +1,8 @@
 title: Sanjay # your name (or website title) here
 logo: "/images/MyLogo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
   Have a good amount of mathematical intuition and knowledge in data handling, analysis and machine learning. Loves to explore and learn new things every day.
+  <br>
   <a href="https://www.linkedin.com/in/sanjayulsha/">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
