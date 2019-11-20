@@ -1,12 +1,14 @@
 title: Sanjay # your name (or website title) here
 logo: "/images/MyLogo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="sanjayulsha"><a class="LI-simple-link" href='https://in.linkedin.com/in/sanjayulsha?trk=profile-badge'>Sanjay Ulsha</a></div>
+  Have been learning, working on some problems with personal interest in data science, machine learning for last 8 months that gave me a good amount of mathematical intuition for most of related concepts, applied the same that I've learnt.
+<br><br>
+Currently working on some deep learning related stuff popular these days on Generative Adversarial Networks (GANs) and getting hands dirty with it for gaining intuition behind the Generative models. 
+<br><br>
+For some of work samples that I've been doing for last few months you can check out my github and articles.  
+<br><br>
+Actively seeking for career opportunities in data science, machine learning with the interest in learning, exploring new things and having basic experience of data handling, analysis, statistical modelling, modern deep learning and software engineering skills.
+<br><br>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
