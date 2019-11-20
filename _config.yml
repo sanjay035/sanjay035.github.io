@@ -1,5 +1,5 @@
 title: Sanjay # your name (or website title) here
-logo: "/images/MyLogo.png?raw=true" # your photo (or logo) here
+logo: "/images/MyLogo.png?raw=true&height=500&width=500" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Have a good amount of mathematical intuition and knowledge in data handling, analysis and machine learning. Loves to explore and learn new things every day.
