@@ -2,10 +2,70 @@ title: Sanjay # your name (or website title) here
 logo: "/images/MyLogo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  Have been learning, working on some problems with personal interest in data science, machine learning for last 8 months that gave me a good amount of mathematical intuition for most of related concepts, applied the same that I've learnt. 
+  Have been learning, working on some problems with personal interest in Data Science, Machine Learning for last 8 months that gave me a good amount of mathematical intuition for most of the related concepts, applying the same that I've learnt. 
   <br><br>
   Currently working on some deep learning related stuff popular these days on Generative Adversarial Networks (GANs) and getting hands dirty with it for gaining intuition behind the Generative models. 
   <br><br>
+ 
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+# title-img: /path/to/image
+
+# --- Background colour/image options --- #
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+# Alternatively, the navbar, footer, and page background can be set to use background images
+# instead of colour
+
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Sanjay
+
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+social-network-links:
+  email: "sanjaykumarusk@gmail.com"
+  facebook: saanj235
+  github: sanjay235
+#  twitter: 
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  youtube: user/deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: false
+  facebook: true
+  linkedin: true
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
