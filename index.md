@@ -13,6 +13,8 @@
 - [Stochastic Gradient Descent (SGD) for Linear Regression](https://github.com/sanjay235/StochasticGradientDescent)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
+- [Predicting Relative Humidity using metal oxides](https://github.com/sanjay235/AirQuality-RelativeHumidity)
+
 ---
 ### Articles & Publications :
 
