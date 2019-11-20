@@ -19,11 +19,7 @@
 
 ### Articles & Publications :
 
-- [Principal Component Analysis (PCA) - Dive Deep](http://example.com/)
---
-
-
-
+- [Principal Component Analysis (PCA) - Dive Deep](https://medium.com/analytics-vidhya/principal-component-analysis-pca-dive-deep-411db0f9ee10)
 
 ---
 <!-- Remove above link if you don't want to attibute -->
