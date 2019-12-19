@@ -3,6 +3,7 @@
 ---
 
 ### Projects :
+- [Sketch2Color anime translation](https://github.com/sanjay235/Sketch2Image-translation)
 
 - [Customer Transaction Prediction](https://github.com/sanjay235/Customer-Transaction-Prediction)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
