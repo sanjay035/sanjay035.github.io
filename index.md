@@ -1,3 +1,17 @@
+## About me
+
+• I'm an individual learning, working on some problems with interest in data science, machine learning for the past 8+ months that gave me a good amount of mathematical intuition for most of the related concepts & applying the same that I've learnt.
+
+• Currently working on deep learning stuff popular these days related to Generative Adversarial Networks (GANs) and getting hands dirty & wet with it to gain intuition behind the deep generative models.
+
+• Contributor for Analytics Vidhya (Medium).
+
+## Contact me
+
+[Blog](https://medium.com/@sanjay235)
+
+[LinkedIn](https://www.linkedin.com/in/sanjayulsha/)
+
 ## Portfolio
 
 ---
