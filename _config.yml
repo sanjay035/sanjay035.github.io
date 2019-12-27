@@ -1,7 +1,7 @@
 title: Sanjay # your name (or website title) here
 logo: "/images/MyLogo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome to my professional page with a collection of work samples and technical blogs that I've been working on past few months.
+  Welcome to my professional page with a collection of work samples and technical blogs that I've been working on for past few months.
   <br>
   
 theme: jekyll-theme-minimal
