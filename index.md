@@ -29,9 +29,11 @@
 - [Predicting Relative Humidity using metal oxides](https://github.com/sanjay235/AirQuality-RelativeHumidity)
 
 ---
-### Technical stories :
+### Technical blogs :
 - [Sketch2Color anime translation using GANs](https://medium.com/p/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb?source=email-df6131035697--writer.postDistributed&sk=15df1b03e8ffc60eaa82bb34114c242a)
+
 - [Principal Component Analysis (PCA) - Dive Deep](https://medium.com/analytics-vidhya/principal-component-analysis-pca-dive-deep-411db0f9ee10)
+
 - [Stochastic Gradient Descent (SGD)](https://sanjay235.github.io/StochasticGradientDescent)
 
 ---
