@@ -43,5 +43,6 @@
 - [Toggle case of a string using bitwise operators](http://www.geeksforgeeks.org/toggle-case-string-using-bitwise-operators/)
 
 - [Case conversion of a string using bitwise operators](http://www.geeksforgeeks.org/case-conversion-lower-upper-vice-versa-string-using-bitwise-operators-cc/)
+
 ---
 <!-- Remove above link if you don't want to attibute -->
