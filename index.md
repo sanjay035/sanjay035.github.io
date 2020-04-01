@@ -14,7 +14,7 @@
 
 ## Portfolio
 ---
-### Work Samples :
+### Personal projects :
 - [Sketch2Color anime translation](https://github.com/sanjay235/Sketch2Color-anime-translation)
 
 - [Customer Transaction Prediction](https://github.com/sanjay235/Customer-Transaction-Prediction)
@@ -36,5 +36,12 @@
 
 - [Stochastic Gradient Descent (SGD)](https://sanjay235.github.io/StochasticGradientDescent)
 
+- [Variable length arrays for Structures in C](https://www.geeksforgeeks.org/case-conversion-lower-upper-vice-versa-string-using-bitwise-operators-cc/)
+
+- [Flexible array members in C](http://www.geeksforgeeks.org/flexible-array-members-structure-c/)
+
+- [Toggle case of a string using bitwise operators](http://www.geeksforgeeks.org/toggle-case-string-using-bitwise-operators/)
+
+- [Case conversion of a string using bitwise operators](http://www.geeksforgeeks.org/case-conversion-lower-upper-vice-versa-string-using-bitwise-operators-cc/)
 ---
 <!-- Remove above link if you don't want to attibute -->
