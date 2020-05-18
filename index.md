@@ -36,7 +36,7 @@
 
 - [Stochastic Gradient Descent (SGD)](https://sanjay235.github.io/StochasticGradientDescent)
 
-- [Variable length arrays for Structures in C](https://www.geeksforgeeks.org/case-conversion-lower-upper-vice-versa-string-using-bitwise-operators-cc/)
+- [Variable length arrays for Structures in C](https://www.geeksforgeeks.org/variable-length-arrays-in-c-and-c/)
 
 - [Flexible array members in C](http://www.geeksforgeeks.org/flexible-array-members-structure-c/)
 
