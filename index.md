@@ -1,10 +1,12 @@
 ## Welcome to my professional page
 ---
-• I'm an entry-level software engineer and data scientist who takes pride in leveraging the data that translates into business insights and developing practical & time-saving software solutions.
+• I'm an entry-level Software Engineer, ML trainee who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
 
 • Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
 
-• Currently reading research papers, implementing deep learning stuff popular these days related to Generative Adversarial Networks (GANs) and getting hands dirty & wet with it to gain intuition behind the deep generative models.
+• Have been learning, working on some problems with interest in data science, machine learning for the past 8+ months that gave me a good amount of mathematical, geometrical intuition for most of the related concepts by applying that I've learned.
+
+• Currently practicing and improving on my problem-solving skills related to Data structures, Algorithms, Object Oriented Programming with C++, Java.
 
 • Contributor at GeeksForGeeks, TowardsDataScience, AnalyticsVidhya (Medium).
 
