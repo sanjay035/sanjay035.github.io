@@ -4,11 +4,9 @@
 
 • Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
 
-• Have been learning, working on some problems with interest in data science, machine learning for the past 8+ months that gave me a good amount of mathematical, geometrical intuition for most of the related concepts by applying that I've learned.
+• Currently practicing and improving on my problem-solving skills related to Data structures, Algorithms, Object Oriented Programming with C++, Java, Python.
 
-• Currently practicing and improving on my problem-solving skills related to Data structures, Algorithms, Object Oriented Programming with C++, Java.
-
-• Contributor at GeeksForGeeks, TowardsDataScience, AnalyticsVidhya (Medium).
+• Contributing at GeeksForGeeks, TowardsDataScience, AnalyticsVidhya (Medium).
 
 ## Contact me
 ---
