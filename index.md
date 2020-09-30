@@ -10,9 +10,7 @@
 
 ## Contact me
 ---
-[Blog<img src="https://img.icons8.com/doodle/48/000000/blogger--v1.png" height="25" width="25">](https://medium.com/@sanjay235)
-
-[LinkedIn<img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" height="25" width="25">](https://www.linkedin.com/in/sanjayulsha/)
+<b>[Blog<img src="https://img.icons8.com/doodle/48/000000/blogger--v1.png" height="30" width="30">](https://medium.com/@sanjay235) [LinkedIn<img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" height="30" width="30">](https://www.linkedin.com/in/sanjayulsha/) [Instagram<img src="https://img.icons8.com/color/2x/instagram-new.png" height="30" width="30">](https://www.instagram.com/saanj_two35/)</b>
 
 ## Portfolio
 ---
