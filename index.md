@@ -1,12 +1,12 @@
 ## Welcome to my professional page
 ---
-• I'm an entry-level Software Engineer, ML trainee who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
+- ⚡ I'm an entry-level Software Engineer, ML trainee who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
 
-• Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
+- 🌱 Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
 
-• Currently practicing and improving on my problem-solving skills related to Data structures, Algorithms, Object Oriented Programming with C++, Java, Python.
+- 🔭 Currently practicing and improving on my problem-solving skills related to Data structures, Algorithms, Object Oriented Programming with C++, Java, Python.
 
-• Contributing at GeeksForGeeks, TowardsDataScience, AnalyticsVidhya (Medium).
+- 💬 Contributing at GeeksForGeeks, TowardsDataScience, AnalyticsVidhya (Medium).
 
 ## Contact me
 ---
