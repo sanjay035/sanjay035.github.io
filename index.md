@@ -1,4 +1,4 @@
-## Hey there 👋 This is Sanjay👦, welcome to my professional page✨.
+## Hey there 👋 This is Sanjay👦, welcome to my profile✨.
 ---
 - ⚡ I'm an entry-level Software Engineer, ML trainee who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
 
