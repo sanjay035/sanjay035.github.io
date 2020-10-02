@@ -18,12 +18,6 @@
 <a href="https://medium.com/@sanjay235"><img align="left" alt="Sanjay235 - Medium" width="30px" src="https://img.icons8.com/doodle/48/000000/blogger--v1.png" style="padding:5px;"/></a>
 <a href="https://www.instagram.com/saanj_two35/"><img align="left" alt="Saanj235 - Instagram" width="32px" src="https://img.icons8.com/color/2x/instagram-new.png" style="padding:5px;"/></a>
 <br/><br/>
-<!--
-<b>[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="30">](https://leetcode.com/saanj235/)
-  [<img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" height="30" width="30">](https://www.linkedin.com/in/sanjayulsha/)
-  [<img src="https://img.icons8.com/doodle/48/000000/blogger--v1.png" height="30" width="30">](https://medium.com/@sanjay235)
-  [<img src="https://img.icons8.com/color/2x/instagram-new.png" height="30" width="30">](https://www.instagram.com/saanj_two35/)</b>
--->
 ---
 ## 🎯 Portfolio:
 ---
@@ -59,3 +53,9 @@
 
 ---
 <!-- Remove above link if you don't want to attibute -->
+<!--
+<b>[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="30">](https://leetcode.com/saanj235/)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" height="30" width="30">](https://www.linkedin.com/in/sanjayulsha/)
+  [<img src="https://img.icons8.com/doodle/48/000000/blogger--v1.png" height="30" width="30">](https://medium.com/@sanjay235)
+  [<img src="https://img.icons8.com/color/2x/instagram-new.png" height="30" width="30">](https://www.instagram.com/saanj_two35/)</b>
+-->
