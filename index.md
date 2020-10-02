@@ -7,6 +7,7 @@
 - 🔭 Currently practicing and improving on my problem-solving skills related to Data structures, Algorithms, Object Oriented Programming with C++, Java, Python.
 
 - 💬 Contributing at GeeksForGeeks, TowardsDataScience, AnalyticsVidhya (Medium).
+
 ## 📫 Contact me:
 ---
 <a href="https://www.linkedin.com/in/sanjayulsha/"><img align="left" alt="SanjayUlsha - LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" style="padding:5px;"/></a>
@@ -18,7 +19,7 @@
 <a href="https://medium.com/@sanjay235"><img align="left" alt="Sanjay235 - Medium" width="30px" src="https://img.icons8.com/doodle/48/000000/blogger--v1.png" style="padding:5px;"/></a>
 <a href="https://www.instagram.com/saanj_two35/"><img align="left" alt="Saanj235 - Instagram" width="32px" src="https://img.icons8.com/color/2x/instagram-new.png" style="padding:5px;"/></a>
 <br/><br/>
----
+
 ## 🎯 Portfolio:
 ---
 ### 💻 Personal projects:
