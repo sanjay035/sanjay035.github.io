@@ -1,4 +1,4 @@
-## Hey there 👋 This is Sanjay, welcome to my professional page✨.
+## Hey there 👋 This is Sanjay👦, welcome to my professional page✨.
 ---
 - ⚡ I'm an entry-level Software Engineer, ML trainee who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
 
@@ -25,9 +25,10 @@
   [<img src="https://img.icons8.com/doodle/48/000000/blogger--v1.png" height="30" width="30">](https://medium.com/@sanjay235)
   [<img src="https://img.icons8.com/color/2x/instagram-new.png" height="30" width="30">](https://www.instagram.com/saanj_two35/)</b>
 -->
-## Portfolio:
+
+## 🎯 Portfolio:
 ---
-### Personal projects :
+### 💻 Personal projects:
 - [Sketch2Color anime translation](https://github.com/sanjay235/Sketch2Color-anime-translation)
 
 - [Customer Transaction Prediction](https://github.com/sanjay235/Customer-Transaction-Prediction)
@@ -42,7 +43,7 @@
 - [Predicting Relative Humidity using metal oxides](https://github.com/sanjay235/AirQuality-RelativeHumidity)
 
 ---
-### Technical blogs :
+### 📝 Technical blogs :
 - [Variable length arrays for Structures in C/C++](https://www.geeksforgeeks.org/variable-length-arrays-in-c-and-c/)
 
 - [Flexible array members in C/C++](http://www.geeksforgeeks.org/flexible-array-members-structure-c/)
