@@ -1,6 +1,6 @@
 ## Hey there 👋 This is Sanjay👦, welcome to my profile✨.
 ---
-- ⚡ I'm an entry-level Software Engineer, ML trainee who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
+- ⚡ I'm an entry-level Software Engineer who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
 
 - 🌱 Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
 
@@ -22,19 +22,21 @@
 ## 🎯 Portfolio:
 ---
 ### 💻 Personal projects:
-- [Sketch2Color anime translation](https://github.com/sanjay235/Sketch2Color-anime-translation)
+- [Sketch2Color anime translation with Generative Adversarial Networks](https://github.com/sanjay235/Sketch2Color-anime-translation)
 
-- [Customer Transaction Prediction](https://github.com/sanjay235/Customer-Transaction-Prediction)
+- [Human Activity Recognition (static, dynamic state classification)](https://github.com/sanjay235/Human-Activity-Recognition)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
-- [Human Activity Recognition](https://github.com/sanjay235/Human-Activity-Recognition)
+- [Customer Transaction Prediction](https://github.com/sanjay235/Customer-Transaction-Prediction)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 - [Stochastic Gradient Descent (SGD) for Linear Regression](https://github.com/sanjay235/StochasticGradientDescent)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 - [Predicting Relative Humidity using metal oxides](https://github.com/sanjay235/AirQuality-RelativeHumidity)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
+- [Smart class room]()
 ---
 ### 📝 Technical blogs :
 - [Variable length arrays for Structures in C/C++](https://www.geeksforgeeks.org/variable-length-arrays-in-c-and-c/)
