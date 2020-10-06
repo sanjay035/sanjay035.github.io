@@ -22,12 +22,12 @@
 ## 🎯 Portfolio:
 ---
 ### 💻 Personal projects:
-- [Sketch2Color anime translation with Generative Adversarial Networks](https://github.com/sanjay235/Sketch2Color-anime-translation)
+- [Sketch2Color anime translation with Generative Adversarial Networks (50 stars, 10 forks)](https://github.com/sanjay235/Sketch2Color-anime-translation)
 
 - [Human Activity Recognition (static, dynamic state classification)](https://github.com/sanjay235/Human-Activity-Recognition)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
-- [Customer Transaction Prediction](https://github.com/sanjay235/Customer-Transaction-Prediction)
+- [Customer Transaction Prediction for banking](https://github.com/sanjay235/Customer-Transaction-Prediction)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 - [Stochastic Gradient Descent (SGD) for Linear Regression](https://github.com/sanjay235/StochasticGradientDescent)
@@ -48,9 +48,9 @@
 
 - [Flexible array members in C/C++](http://www.geeksforgeeks.org/flexible-array-members-structure-c/)
 
-- [Sketch2Color anime translation using GANs](https://medium.com/p/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb?source=email-df6131035697--writer.postDistributed&sk=15df1b03e8ffc60eaa82bb34114c242a)
+- [Sketch2Color anime translation with GANs](https://medium.com/p/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb?source=email-df6131035697--writer.postDistributed&sk=15df1b03e8ffc60eaa82bb34114c242a)
 
-- [Principal Component Analysis (PCA) - Dive Deep](https://medium.com/analytics-vidhya/principal-component-analysis-pca-dive-deep-411db0f9ee10)
+- [Principal Component Analysis (PCA)](https://medium.com/analytics-vidhya/principal-component-analysis-pca-dive-deep-411db0f9ee10)
 
 - [Stochastic Gradient Descent (SGD)](https://sanjay235.github.io/StochasticGradientDescent)
 
