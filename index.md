@@ -36,7 +36,7 @@
 - [Predicting Relative Humidity using metal oxides](https://github.com/sanjay235/AirQuality-RelativeHumidity)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
-- [Smart class room]()
+- [Smart class room](https://github.com/sanjay235)
 ---
 ### 📝 Technical blogs :
 - [Case conversion of a string with bitwise operators](http://www.geeksforgeeks.org/case-conversion-lower-upper-vice-versa-string-using-bitwise-operators-cc/)
