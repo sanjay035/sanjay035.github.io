@@ -4,7 +4,7 @@
 
 - 🌱 Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
 
-- 🔭 Currently practicing and improving on my problem-solving skills related to Data structures, Algorithms, Object Oriented Programming with C++, Java, Python.
+- 🔭 Currently practicing and improving on my problem-solving skills related to Data structures, Algorithms, Object Oriented Programming, Machine learning with C++, Java, and Python.
 
 - 💬 Contributing at GeeksForGeeks, TowardsDataScience, AnalyticsVidhya (Medium).
 
@@ -39,13 +39,13 @@
 - [Smart class room]()
 ---
 ### 📝 Technical blogs :
+- [Case conversion of a string with bitwise operators](http://www.geeksforgeeks.org/case-conversion-lower-upper-vice-versa-string-using-bitwise-operators-cc/)
+
+- [Toggle case of a string with bitwise operators](http://www.geeksforgeeks.org/toggle-case-string-using-bitwise-operators/)
+
 - [Variable length arrays for Structures in C/C++](https://www.geeksforgeeks.org/variable-length-arrays-in-c-and-c/)
 
 - [Flexible array members in C/C++](http://www.geeksforgeeks.org/flexible-array-members-structure-c/)
-
-- [Toggle case of a string using bitwise operators](http://www.geeksforgeeks.org/toggle-case-string-using-bitwise-operators/)
-
-- [Case conversion of a string using bitwise operators](http://www.geeksforgeeks.org/case-conversion-lower-upper-vice-versa-string-using-bitwise-operators-cc/)
 
 - [Sketch2Color anime translation using GANs](https://medium.com/p/sketch-to-color-anime-translation-using-generative-adversarial-networks-gans-8f4f69594aeb?source=email-df6131035697--writer.postDistributed&sk=15df1b03e8ffc60eaa82bb34114c242a)
 
