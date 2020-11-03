@@ -40,6 +40,10 @@
 
 ---
 ### 📝 Technical blogs :
+- [Merge two sorted arrays in O((n+m) log m) time and O(1) extra space](https://www.geeksforgeeks.org/merge-two-sorted-arrays-in-o1-extra-space-using-heap/)
+
+- [Square of a number without using ’*’, ’/’, ’pow()’ in O(log n) time](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/)
+
 - [Case conversion of a string with bitwise operators](http://www.geeksforgeeks.org/case-conversion-lower-upper-vice-versa-string-using-bitwise-operators-cc/)
 
 - [Toggle case of a string with bitwise operators](http://www.geeksforgeeks.org/toggle-case-string-using-bitwise-operators/)
