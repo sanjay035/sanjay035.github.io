@@ -1,12 +1,12 @@
 ## Hey there 👋, welcome to my profile🚀.
 ---
-- ⚡ I'm an entry-level Software Engineer who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
+- ⚡ I am an experienced software developer, and I take pride in developing practical & time-saving software and add value to the products, organization.
 
 - 🌱 Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
 
-- 🔭 Currently practicing and improving on my problem-solving skills related to Data structures, Algorithms, Object Oriented Programming, Machine learning with C++, Java, and Python.
+- 🔭 I leverage and improve my problem-solving skills by frequently participating in coding contests, and then learn from mistakes.
 
-- 💬 Contributing at GeeksForGeeks, TowardsDataScience, AnalyticsVidhya (Medium).
+- 💬 Contributing at GeeksForGeeks, TowardsDataScience.
 
 ## 📫 Connect with me:
 ---
