@@ -22,6 +22,8 @@
 ## 🎯 Portfolio:
 ---
 ### 💻 Personal projects:
+- [Dynamic job scheduler with jobs data persisted in the Database for recovery](https://github.com/sanjay235/Dynamic-Job-Scheduler)
+
 - [Sketch2Color anime translation with Generative Adversarial Networks (50 stars, 10 forks)](https://github.com/sanjay235/Sketch2Color-anime-translation)
 
 - [Human Activity Recognition (static, dynamic state classification)](https://github.com/sanjay235/Human-Activity-Recognition)
