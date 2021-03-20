@@ -6,7 +6,7 @@
 
 - 🔭 In order to leverage & improve on my problem-solving skills, I frequently participate in coding contests and learn from mistakes.
 
-- 💬 I also contribute at GeeksForGeeks, TowardsDataScience.
+- 💬 Skilled at Problem-Solving, Data structures, Algorithms, Object Oriented Programming with C++, Java, Python. I also contribute at GeeksForGeeks, TowardsDataScience.
 
 - 🌱 Open to new and exciting challenges.
 
