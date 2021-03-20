@@ -1,12 +1,14 @@
 ## Hey there 👋, welcome to my profile🚀.
 ---
-- ⚡ I am an experienced software developer, and I take pride in developing practical & time-saving software and add value to the products, organization.
+- ⚡ As an experienced software engineer, I take pride in developing practical & time-saving software and add value to the products & organization.
 
-- 🌱 Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
+<!-- - 🌱 Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems. -->
 
-- 🔭 I leverage and improve my problem-solving skills by frequently participating in coding contests, and then learn from mistakes.
+- 🔭 In order to leverage & improve on my problem-solving skills, I frequently participate in coding contests and learn from mistakes.
 
-- 💬 Contributing at GeeksForGeeks, TowardsDataScience.
+- 💬 I also contribute at GeeksForGeeks, TowardsDataScience.
+
+- 🌱 Open to new and exciting challenges.
 
 ## 📫 Connect with me:
 ---
