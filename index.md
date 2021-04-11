@@ -24,7 +24,9 @@
 ## 🎯 Portfolio:
 ---
 ### 💻 Personal projects:
-- [Dynamic job scheduler with jobs data persisted in the Database for recovery](https://github.com/sanjay235/Dynamic-Job-Scheduler)
+- [E-Wallet service with create wallet, add money, and send money](https://github.com/sanjay235/E-Wallet-Service)
+
+- [Dynamic job scheduler with data persisted in the database for recovery](https://github.com/sanjay235/Dynamic-Job-Scheduler)
 
 - [Sketch2Color anime translation with Generative Adversarial Networks (50 stars, 10 forks)](https://github.com/sanjay235/Sketch2Color-anime-translation)
 
